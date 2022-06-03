@@ -32,6 +32,7 @@ public class MainActivity extends AppCompatActivity {
                 Toast.makeText(this, "Pos: " + tag + "   Sym:" + " Zero", Toast.LENGTH_SHORT).show();
                 player = 1;
             }
+            
 
             for (int i = 0; i < winningStates.length; i++) {
                 if (gameState[winningStates[i][0]] != -1 && gameState[winningStates[i][0]] == gameState[winningStates[i][1]] && gameState[winningStates[i][1]] == gameState[winningStates[i][2]]) {
