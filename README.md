@@ -5,7 +5,6 @@ package com.example.tictactoe;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.gridlayout.widget.GridLayout;
-
 import android.os.Bundle;
 import android.view.View;
 import android.widget.ImageView;
