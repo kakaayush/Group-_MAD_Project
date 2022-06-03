@@ -1,5 +1,5 @@
 # Group-_MAD_Project
-Anindya Ram Tripathi Juet, [03.06.22 23:21]
+ [03.06.22 23:21]
 package com.example.tictactoe;
 
 import androidx.appcompat.app.AppCompatActivity;
