@@ -3,7 +3,6 @@
 package com.example.tictactoe;
 
 
-
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.gridlayout.widget.GridLayout;
 
